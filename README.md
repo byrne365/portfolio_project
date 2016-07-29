@@ -63,7 +63,22 @@ To view `index.html` simply *right* click on `index.html` and then click on *ope
 Once the file is open in `Chrome` you will be viewing the file in its default setting which is _desktop/laptop_ mode and with the viewport settings set to _laptop/desktop_.
 
 ##Viewing in smaller _viewports_ on a _Windows machine_
-With `index.html` open in chrome
+
+1.With `index.html` open in chrome press `Ctrl`, `Shift` and `I` together until the `Chrome` developer tools open on either the right hand side of the browser window or the bottom.
+
+2.At the top Left hand corner of the developer tools are the icons to change the view. By clicking the icon closest to the _Elements_ button, the mobile view will be activated.
+
+3.`Chrome` will change the window appearance to that of a mobile device, the defaut setting is `responsive`. By selecting the arrow to the right of this will present a _`dropdown`_ list of mbile devices. Please view `index.html` in _`iPad`_ view and _`Nexus 5X`_.
+
+To exit developer tools press `Ctrl`, `Shift` and `I` together until devloper tools close.
+
+##Viewing in smaller _viewports_ on a _Mac Machine_
+
+1.1.With `index.html` open in chrome hold `alt`, `cmd` and `I` together until the `Chrome` developer tools open on either the right hand side of the browser window or the bottom.
+
+2.At the top Left hand corner of the developer tools are the icons to change the view. By clicking the icon closest to the _Elements_ button, the mobile view will be activated.
+
+3.`Chrome` will change the window appearance to that of a mobile device, the defaut setting is `responsive`. By selecting the arrow to the right of this will present a _`dropdown`_ list of mbile devices. Please view `index.html` in _`iPad`_ view and _`Nexus 5X`_.
 
 
 
