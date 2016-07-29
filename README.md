@@ -58,7 +58,7 @@ Use the same software that installs programs on your computer to install Chrome.
 
 #Viewing the page
 
-The page is `responsive` and `dynamic`, which means you have a few options of how to view the page.
+The page is `responsive` and `dynamic`, which means you have a few options of how to view the page.The page also has`modals` and links embedded within the page.
 To view `index.html` simply *right* click on `index.html` and then click on *open with* and select the `Chrome` web browser option to open.
 Once the file is open in `Chrome` you will be viewing the file in its default setting which is _desktop/laptop_ mode and with the viewport settings set to _laptop/desktop_.
 
@@ -80,6 +80,14 @@ To exit developer tools press `Ctrl`, `Shift` and `I` together until devloper to
 
 3.`Chrome` will change the window appearance to that of a mobile device, the defaut setting is `responsive`. By selecting the arrow to the right of this will present a _`dropdown`_ list of mbile devices. Please view `index.html` in _`iPad`_ view and _`Nexus 5X`_.
 
+To exit developer tools press `Ctrl`, `Shift` and `I` together until devloper tools close.
 
+#Accessing the `Modals` on the page
+
+To access further information on each topic simply click on the images marked, `Favorite App`, `Portfolio framework` and `Bokeh` for further details.
+The links under each image is active but in the future I will have further projects connected.
+
+#social Media
+You can also access the relivant social media platforms via the social media buttons at the foot of the page.
 
 Thank you for reading the above file. Chrome install readme, is the work of Google and is copied in part from the chrome download webiste.
