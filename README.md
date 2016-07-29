@@ -82,12 +82,12 @@ To exit developer tools press `Ctrl`, `Shift` and `I` together until devloper to
 
 To exit developer tools press `Ctrl`, `Shift` and `I` together until devloper tools close.
 
-#Accessing the `Modals` on the page
+##Accessing the `Modals` on the page
 
 To access further information on each topic simply click on the images marked, `Favorite App`, `Portfolio framework` and `Bokeh` for further details.
 The links under each image is active but in the future I will have further projects connected.
 
-#social Media
+##social Media
 You can also access the relivant social media platforms via the social media buttons at the foot of the page.
 
 Thank you for reading the above file. Chrome install readme, is the work of Google and is copied in part from the chrome download webiste.
